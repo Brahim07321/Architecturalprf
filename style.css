@@ -328,7 +328,7 @@ input, textarea, select { font-family: inherit; font-size: inherit; }
 .mobile-menu__links a {
   display: block;
   font-family: var(--font-display);
-  font-size: clamp(2rem, 8vw, 3.5rem);
+  font-size: 30px;
   font-weight: 300;
   color: var(--white);
   padding: 0.5em 0;
